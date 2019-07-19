@@ -1,4 +1,9 @@
 # List comprehension
+str[start:end:step]
+
+trash = "trash"
+trash[::-1]
+=> "hsart"
 
 # create list nums in range of 0-100
 list_of_nums = [number for number in range(100)]
